@@ -1,55 +1,33 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="beINNews.ar" tvg-name="beIN الاخبارية" tvg-logo="https://example.com/logo.png" group-title="beIN",beIN الاخبارية
+http://188.241.219.157/live/yusf4k/yusf4k/274161.ts?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
 
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports HD", beIN Sports 1 HD
-http://188.241.219.157/live/yusf4k/yusf4k/274162.ts?token=...
+#EXTINF:-1 tvg-id="beINSports1.ar" tvg-name="beIN Sports 1" tvg-logo="https://example.com/logo.png" group-title="beIN SD",beIN Sports 1
+http://188.241.219.157/live/yusf4k/yusf4k/274122.ts?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
+#EXTINF:-1 tvg-id="beINSports2.ar" tvg-name="beIN Sports 2" tvg-logo="https://example.com/logo.png" group-title="beIN SD",beIN Sports 2
+http://188.241.219.157/live/yusf4k/yusf4k/274123.ts?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
+#EXTINF:-1 tvg-id="beINSports3.ar" tvg-name="beIN Sports 3" tvg-logo="https://example.com/logo.png" group-title="beIN SD",beIN Sports 3
+http://188.241.219.157/live/yusf4k/yusf4k/274124.ts?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
+#EXTINF:-1 tvg-id="beINSports4.ar" tvg-name="beIN Sports 4" tvg-logo="https://example.com/logo.png" group-title="beIN SD",beIN Sports 4
+http://188.241.219.157/live/yusf4k/yusf4k/274125.ts?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
+#EXTINF:-1 tvg-id="beINSports5.ar" tvg-name="beIN Sports 5" tvg-logo="https://example.com/logo.png" group-title="beIN SD",beIN Sports 5
+http://188.241.219.157/live/yusf4k/yusf4k/274126.ts?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
+#EXTINF:-1 tvg-id="beINSports6.ar" tvg-name="beIN Sports 6" tvg-logo="https://example.com/logo.png" group-title="beIN SD",beIN Sports 6
+http://188.241.219.157/live/yusf4k/yusf4k/274127.ts?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKR Vaughan
+#EXTINF:-1 tvg-id="beINSports7.ar" tvg-name="beIN Sports 7" tvg-logo="https://example.com/logo.png" group-title="beIN SD",beIN Sports 7
+http://188.241.219.157/live/yusf4k/yusf4k/274128.ts?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
+#EXTINF:-1 tvg-id="beINSports8.ar" tvg-name="beIN Sports 8" tvg-logo="https://example.com/logo.png" group-title="beIN SD",beIN Sports 8
+http://188.241.219.157/live/yusf4k/yusf4k/274129.ts?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNajgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
+#EXTINF:-1 tvg-id="beINSports9.ar" tvg-name="beIN Sports 9" tvg-logo="https://example.com/logo.png" group-title="beIN SD",beIN Sports 9
+http://188.241.219.157/live/yusf4k/yusf4k/274130.ts?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
+#EXTINF:-1 tvg-id="beINXTRA1.ar" tvg-name="beIN Sports XTRA 1" tvg-logo="https://example.com/logo.png" group-title="beIN",beIN Sports XTRA 1
+http://188.241.219.157/live/yusf4k/yusf4k/274185.ts?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
+#EXTINF:-1 tvg-id="beINXTRA2.ar" tvg-name="beIN Sports XTRA 2" tvg-logo="https://example.com/logo.png" group-title="beIN",beIN Sports XTRA 2
+http://188.241.219.157/live/yusf4k/yusf4k/274186.ts?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
+#EXTINF:-1 tvg-id="beINXTRA3.ar" tvg-name="beIN Sports XTRA 3" tvg-logo="https://example.com/logo.png" group-title="beIN",beIN Sports XTRA 3
+http://188.241.219.157/live/yusf4k/yusf4k/274187.ts?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
 
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports HD", beIN Sports 2 HD
-http://188.241.219.157/live/yusf4k/yusf4k/274163.ts?token=...
-
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports HD", beIN Sports 3 HD
-http://188.241.219.157/live/yusf4k/yusf4k/274164.ts?token=...
-
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports HD", beIN Sports 4 HD
-http://188.241.219.157/live/yusf4k/yusf4k/274165.ts?token=...
-
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports HD", beIN Sports 5 HD
-http://188.241.219.157/live/yusf4k/yusf4k/274166.ts?token=...
-
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports HD", beIN Sports 6 HD
-http://188.241.219.157/live/yusf4k/yusf4k/274167.ts?token=...
-
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports HD", beIN Sports 7 HD
-http://188.241.219.157/live/yusf4k/yusf4k/274168.ts?token=...
-
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports HD", beIN Sports 8 HD
-http://188.241.219.157/live/yusf4k/yusf4k/274169.ts?token=...
-
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports HD", beIN Sports 9 HD
-http://188.241.219.157/live/yusf4k/yusf4k/274170.ts?token=...
-
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports 720p", beIN Sports 1 (720p)
-http://188.241.219.157/live/yusf4k/yusf4k/274176.ts?token=...
-
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports 720p", beIN Sports 2 (720p)
-http://188.241.219.157/live/yusf4k/yusf4k/274177.ts?token=...
-
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports 720p", beIN Sports 3 (720p)
-http://188.241.219.157/live/yusf4k/yusf4k/274178.ts?token=...
-
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports 720p", beIN Sports 4 (720p)
-http://188.241.219.157/live/yusf4k/yusf4k/274179.ts?token=...
-
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports 720p", beIN Sports 5 (720p)
-http://188.241.219.157/live/yusf4k/yusf4k/274180.ts?token=...
-
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports 720p", beIN Sports 6 (720p)
-http://188.241.219.157/live/yusf4k/yusf4k/274181.ts?token=...
-
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports 720p", beIN Sports 7 (720p)
-http://188.241.219.157/live/yusf4k/yusf4k/274182.ts?token=...
-
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports 720p", beIN Sports 8 (720p)
-http://188.241.219.157/live/yusf4k/yusf4k/274183.ts?token=...
-
-#EXTINF:-1 tvg-logo="" group-title="beIN Sports 720p", beIN Sports 9 (720p)
-http://188.241.219.157/live/yusf4k/yusf4k/274184.ts?token=...
+#EXTINF:-1 tvg-id="beINSports1HD.ar" tvg-name="beIN Sports 1 HD" tvg-logo="https://example.com/logo.png" group-title="beIN HD",beIN Sports 1-HD
+http://188.241.219.157/live/yusf4k/yusf4k/274162.ts?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
+#EXTINF:-1 tvg-id="beINSports2HD.ar" tvg-name="beIN Sports 2 HD" tvg-logo="https://example.com/logo.png" group-title="beIN HD",beIN Sports 2-HD
+http://188.241.219.157/live/yusf4k/yusf4k/274163.ts?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRw
