@@ -1,0 +1,295 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 1 SD" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | SD",BEIN 1 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/39.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 1 SD Backup" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | SD",BEIN 1 SD Backup
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/40.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 2 SD" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | SD",BEIN 2 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/41.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 2 SD backup" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | SD",BEIN 2 SD backup
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/42.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 3 SD" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | SD",BEIN 3 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/43.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 3 SD backup" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | SD",BEIN 3 SD backup
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/44.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 4 SD" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | SD",BEIN 4 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/45.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 5 SD" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | SD",BEIN 5 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/46.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 6 SD" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | SD",BEIN 6 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/47.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 7 SD" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | SD",BEIN 7 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/48.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 8 SD" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | SD",BEIN 8 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/49.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 9 SD" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | SD",BEIN 9 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/50.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 1 Xtra SD" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | SD",BEIN 1 Xtra SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/51.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 2 Xtra SD" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | SD",BEIN 2 Xtra SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/52.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 3 Xtra SD" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | SD",BEIN 3 Xtra SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/53.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN News SD" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | SD",BEIN News SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/54.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 1 LOW" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | LOW",BEIN 1 LOW
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/55.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 1 LOW Backup" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | LOW",BEIN 1 LOW Backup
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/56.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 2 LOW" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | LOW",BEIN 2 LOW
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/57.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 2 LOW backup" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | LOW",BEIN 2 LOW backup
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/58.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 3 LOW" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | LOW",BEIN 3 LOW
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/59.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 3 LOW backup" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | LOW",BEIN 3 LOW backup
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/60.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 4 LOW" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | LOW",BEIN 4 LOW
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/61.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 5 LOW" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | LOW",BEIN 5 LOW
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/62.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 6 LOW" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | LOW",BEIN 6 LOW
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/63.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 7 LOW" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | LOW",BEIN 7 LOW
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/64.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 8 LOW" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | LOW",BEIN 8 LOW
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/65.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 9 LOW" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | LOW",BEIN 9 LOW
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/66.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 1 Xtra LOW" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | LOW",BEIN 1 Xtra LOW
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/67.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 2 Xtra LOW" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | LOW",BEIN 2 Xtra LOW
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/68.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 3 Xtra LOW" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | LOW",BEIN 3 Xtra LOW
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/69.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN News LOW" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | LOW",BEIN News LOW
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/70.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 1 512" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | 512",BEIN 1 512
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/71.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 2 512" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | 512",BEIN 2 512
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/72.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 3 512" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | 512",BEIN 3 512
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/73.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 4 512" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | 512",BEIN 4 512
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/74.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 5 512" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | 512",BEIN 5 512
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/75.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 6 512" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | 512",BEIN 6 512
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/76.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 7 512" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | 512",BEIN 7 512
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/77.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 8 512" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | 512",BEIN 8 512
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/78.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 9 512" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | 512",BEIN 9 512
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/79.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 1 Xtra 512" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | 512",BEIN 1 Xtra 512
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/80.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 2 Xtra 512" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | 512",BEIN 2 Xtra 512
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/81.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 3 Xtra 512" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | 512",BEIN 3 Xtra 512
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/82.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN News 512" tvg-logo="https://live.staticflickr.com/65535/53531699538_8bfa8ec3d2_q.jpg" group-title="BEIN | 512",BEIN News 512
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/83.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 1 HD" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HD",BEIN 1 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/84.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 2 HD" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HD",BEIN 2 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/85.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 3 HD" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HD",BEIN 3 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/86.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 4 HD" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HD",BEIN 4 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/87.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 5 HD" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HD",BEIN 5 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/88.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 6 HD" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HD",BEIN 6 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/89.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 7 HD" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HD",BEIN 7 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 8 HD" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HD",BEIN 8 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/91.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 9 HD" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HD",BEIN 9 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/92.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN Xtra 1 HD" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HD",BEIN Xtra 1 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/93.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN Xtra 2 HD" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HD",BEIN Xtra 2 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/94.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN Xtra 3 HD" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HD",BEIN Xtra 3 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/95.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN News HD" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HD",BEIN News HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/96.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 1 1080" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | 1080",BEIN 1 1080
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/97.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 2 1080" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | 1080",BEIN 2 1080
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/98.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 3 1080" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | 1080",BEIN 3 1080
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/99.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 4 1080" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | 1080",BEIN 4 1080
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/100.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 5 1080" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | 1080",BEIN 5 1080
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/101.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 6 1080" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | 1080",BEIN 6 1080
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/102.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 7 1080" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | 1080",BEIN 7 1080
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/103.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 8 1080" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | 1080",BEIN 8 1080
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/104.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 9 1080" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | 1080",BEIN 9 1080
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/105.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN Xtra 1 1080" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | 1080",BEIN Xtra 1 1080
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/106.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN Xtra 2 1080" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | 1080",BEIN Xtra 2 1080
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/107.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN Xtra 3 1080" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | 1080",BEIN Xtra 3 1080
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/108.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN News 1080" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | 1080",BEIN News 1080
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/109.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 1 HEVC" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HEVC",Bein 1 HEVC
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/331643.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 2 HEVC" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HEVC",BEIN 2 HEVC
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/331644.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 3 HEVC" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HEVC",Bein 3 HEVC
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/331645.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 4 HEVC" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HEVC",Bein 4 HEVC
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/331646.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 5 HEVC" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HEVC",Bein 5 HEVC
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/331647.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 6 HEVC" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HEVC",Bein 6 HEVC
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/331648.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 7 HEVC" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HEVC",Bein 7 HEVC
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/331649.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 8 HEVC" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HEVC",Bein 8 HEVC
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/331650.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 9 HEVC" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HEVC",Bein 9 HEVC
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/331651.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 1 4K A" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K",BEIN 1 4K A
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/110.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 2 4K A" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K",BEIN 2 4K A
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/111.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 3 4K A" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K",BEIN 3 4K A
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/112.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 4 4K A" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K",BEIN 4 4K A
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/113.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 5 4K A" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K",BEIN 5 4K A
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/114.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 6 4K A" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K",BEIN 6 4K A
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/115.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 7 4K A" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K",BEIN 7 4K A
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/116.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 8 4K A" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K",BEIN 8 4K A
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/117.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 9 4K A" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K",BEIN 9 4K A
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/118.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN Xtra 1 4K A" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K",BEIN Xtra 1 4K A
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/119.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN Xtra 2 4K A" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K",BEIN Xtra 2 4K A
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/120.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN Xtra 3 4K A" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K",BEIN Xtra 3 4K A
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/121.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN News 4K A" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K",BEIN News 4K A
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/122.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 1 4K B" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K Backup",BEIN 1 4K B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/123.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 2 4K B" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K Backup",BEIN 2 4K B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/124.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 3 4K B" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K Backup",BEIN 3 4K B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/125.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 4 4K B" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K Backup",BEIN 4 4K B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/126.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 5 4K B" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K Backup",BEIN 5 4K B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/127.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 6 4K B" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K Backup",BEIN 6 4K B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/128.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 7 4K B" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K Backup",BEIN 7 4K B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/129.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 8 4K B" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K Backup",BEIN 8 4K B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/130.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN 9 4K B" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K Backup",BEIN 9 4K B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/131.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN XtrA 1 4K B" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K Backup",BEIN XtrA 1 4K B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/132.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN XtrA 2 4K B" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K Backup",BEIN XtrA 2 4K B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/133.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN XtrA 3 4K B" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K Backup",BEIN XtrA 3 4K B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/134.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN News 4K B" tvg-logo="https://live.staticflickr.com/65535/53531699493_baf27cac00_m.jpg" group-title="BEIN | 4K Backup",BEIN News 4K B
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/135.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 1 AP" tvg-logo="https://media.elwatannews.com/media/img/mediaarc/large/5973325451497613366.jpg" group-title="BEIN SPORT AP 4K",Bein 1 AP
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348876.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 2 AP" tvg-logo="https://media.elwatannews.com/media/img/mediaarc/large/5973325451497613366.jpg" group-title="BEIN SPORT AP 4K",Bein 2 AP
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348877.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 3 AP" tvg-logo="https://media.elwatannews.com/media/img/mediaarc/large/5973325451497613366.jpg" group-title="BEIN SPORT AP 4K",Bein 3 AP
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348878.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 4 AP" tvg-logo="https://media.elwatannews.com/media/img/mediaarc/large/5973325451497613366.jpg" group-title="BEIN SPORT AP 4K",Bein 4 AP
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348879.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 5 AP" tvg-logo="https://media.elwatannews.com/media/img/mediaarc/large/5973325451497613366.jpg" group-title="BEIN SPORT AP 4K",Bein 5 AP
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348880.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 6 AP" tvg-logo="https://media.elwatannews.com/media/img/mediaarc/large/5973325451497613366.jpg" group-title="BEIN SPORT AP 4K",Bein 6 AP
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348881.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 7 AP" tvg-logo="https://media.elwatannews.com/media/img/mediaarc/large/5973325451497613366.jpg" group-title="BEIN SPORT AP 4K",Bein 7 AP
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348882.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 8 AP" tvg-logo="https://media.elwatannews.com/media/img/mediaarc/large/5973325451497613366.jpg" group-title="BEIN SPORT AP 4K",Bein 8 AP
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348883.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 9 AP" tvg-logo="https://media.elwatannews.com/media/img/mediaarc/large/5973325451497613366.jpg" group-title="BEIN SPORT AP 4K",Bein 9 AP
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348884.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POST SPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTnJFCGUiBM0HE8s2FoowfcF3JUCi0j1rLE7PCNhj1QSXZU9ZRhzo3LrOIQeovFYu7Cic&usqp=CAU" group-title="POST SPORT",POST SPORT 1
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348895.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POST SPORT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTnJFCGUiBM0HE8s2FoowfcF3JUCi0j1rLE7PCNhj1QSXZU9ZRhzo3LrOIQeovFYu7Cic&usqp=CAU" group-title="POST SPORT",POST SPORT 2
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348896.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POST SPORT 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTnJFCGUiBM0HE8s2FoowfcF3JUCi0j1rLE7PCNhj1QSXZU9ZRhzo3LrOIQeovFYu7Cic&usqp=CAU" group-title="POST SPORT",POST SPORT 3
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348897.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POST SPORT 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTnJFCGUiBM0HE8s2FoowfcF3JUCi0j1rLE7PCNhj1QSXZU9ZRhzo3LrOIQeovFYu7Cic&usqp=CAU" group-title="POST SPORT",POST SPORT 4
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348898.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POST SPORT 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTnJFCGUiBM0HE8s2FoowfcF3JUCi0j1rLE7PCNhj1QSXZU9ZRhzo3LrOIQeovFYu7Cic&usqp=CAU" group-title="POST SPORT",POST SPORT 5
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348899.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kass 6 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN6fJTRa4ifHtG20Eu1jpZOpqBh47DPNd-YriXc4vvq6ggvz9fvl3cCaqOsmlTiQ7oh8VcxrhEQWvzMeDi8__vlFMeUvuI3MZIJGC3Os0iL3Rl6x3DTpO7jtzHsalBU_pFaajLcFDwU1BHYY9qN0Pbholt-IxPG6DabmAeCy4C15lCGLS6-eySpL6M/s640/alkas" group-title="SPORT | Al Kass",Al Kass 6 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/343207.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kass 6 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN6fJTRa4ifHtG20Eu1jpZOpqBh47DPNd-YriXc4vvq6ggvz9fvl3cCaqOsmlTiQ7oh8VcxrhEQWvzMeDi8__vlFMeUvuI3MZIJGC3Os0iL3Rl6x3DTpO7jtzHsalBU_pFaajLcFDwU1BHYY9qN0Pbholt-IxPG6DabmAeCy4C15lCGLS6-eySpL6M/s640/alkas" group-title="SPORT | Al Kass",Al Kass 6 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/343206.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kass 5 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN6fJTRa4ifHtG20Eu1jpZOpqBh47DPNd-YriXc4vvq6ggvz9fvl3cCaqOsmlTiQ7oh8VcxrhEQWvzMeDi8__vlFMeUvuI3MZIJGC3Os0iL3Rl6x3DTpO7jtzHsalBU_pFaajLcFDwU1BHYY9qN0Pbholt-IxPG6DabmAeCy4C15lCGLS6-eySpL6M/s640/alkas" group-title="SPORT | Al Kass",Al Kass 5 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/343205.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kass 1 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN6fJTRa4ifHtG20Eu1jpZOpqBh47DPNd-YriXc4vvq6ggvz9fvl3cCaqOsmlTiQ7oh8VcxrhEQWvzMeDi8__vlFMeUvuI3MZIJGC3Os0iL3Rl6x3DTpO7jtzHsalBU_pFaajLcFDwU1BHYY9qN0Pbholt-IxPG6DabmAeCy4C15lCGLS6-eySpL6M/s640/alkas" group-title="SPORT | Al Kass",Al Kass 1 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/248.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kass 2 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN6fJTRa4ifHtG20Eu1jpZOpqBh47DPNd-YriXc4vvq6ggvz9fvl3cCaqOsmlTiQ7oh8VcxrhEQWvzMeDi8__vlFMeUvuI3MZIJGC3Os0iL3Rl6x3DTpO7jtzHsalBU_pFaajLcFDwU1BHYY9qN0Pbholt-IxPG6DabmAeCy4C15lCGLS6-eySpL6M/s640/alkas" group-title="SPORT | Al Kass",Al Kass 2 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/249.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kass 3 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN6fJTRa4ifHtG20Eu1jpZOpqBh47DPNd-YriXc4vvq6ggvz9fvl3cCaqOsmlTiQ7oh8VcxrhEQWvzMeDi8__vlFMeUvuI3MZIJGC3Os0iL3Rl6x3DTpO7jtzHsalBU_pFaajLcFDwU1BHYY9qN0Pbholt-IxPG6DabmAeCy4C15lCGLS6-eySpL6M/s640/alkas" group-title="SPORT | Al Kass",Al Kass 3 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/250.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kass 4 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN6fJTRa4ifHtG20Eu1jpZOpqBh47DPNd-YriXc4vvq6ggvz9fvl3cCaqOsmlTiQ7oh8VcxrhEQWvzMeDi8__vlFMeUvuI3MZIJGC3Os0iL3Rl6x3DTpO7jtzHsalBU_pFaajLcFDwU1BHYY9qN0Pbholt-IxPG6DabmAeCy4C15lCGLS6-eySpL6M/s640/alkas" group-title="SPORT | Al Kass",Al Kass 4 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/251.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kass 1 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN6fJTRa4ifHtG20Eu1jpZOpqBh47DPNd-YriXc4vvq6ggvz9fvl3cCaqOsmlTiQ7oh8VcxrhEQWvzMeDi8__vlFMeUvuI3MZIJGC3Os0iL3Rl6x3DTpO7jtzHsalBU_pFaajLcFDwU1BHYY9qN0Pbholt-IxPG6DabmAeCy4C15lCGLS6-eySpL6M/s640/alkas" group-title="SPORT | Al Kass",Al Kass 1 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/252.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kass 2 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN6fJTRa4ifHtG20Eu1jpZOpqBh47DPNd-YriXc4vvq6ggvz9fvl3cCaqOsmlTiQ7oh8VcxrhEQWvzMeDi8__vlFMeUvuI3MZIJGC3Os0iL3Rl6x3DTpO7jtzHsalBU_pFaajLcFDwU1BHYY9qN0Pbholt-IxPG6DabmAeCy4C15lCGLS6-eySpL6M/s640/alkas" group-title="SPORT | Al Kass",Al Kass 2 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/253.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kass 3 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN6fJTRa4ifHtG20Eu1jpZOpqBh47DPNd-YriXc4vvq6ggvz9fvl3cCaqOsmlTiQ7oh8VcxrhEQWvzMeDi8__vlFMeUvuI3MZIJGC3Os0iL3Rl6x3DTpO7jtzHsalBU_pFaajLcFDwU1BHYY9qN0Pbholt-IxPG6DabmAeCy4C15lCGLS6-eySpL6M/s640/alkas" group-title="SPORT | Al Kass",Al Kass 3 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/254.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kass 4 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN6fJTRa4ifHtG20Eu1jpZOpqBh47DPNd-YriXc4vvq6ggvz9fvl3cCaqOsmlTiQ7oh8VcxrhEQWvzMeDi8__vlFMeUvuI3MZIJGC3Os0iL3Rl6x3DTpO7jtzHsalBU_pFaajLcFDwU1BHYY9qN0Pbholt-IxPG6DabmAeCy4C15lCGLS6-eySpL6M/s640/alkas" group-title="SPORT | Al Kass",Al Kass 4 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/255.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kass 5 4K" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN6fJTRa4ifHtG20Eu1jpZOpqBh47DPNd-YriXc4vvq6ggvz9fvl3cCaqOsmlTiQ7oh8VcxrhEQWvzMeDi8__vlFMeUvuI3MZIJGC3Os0iL3Rl6x3DTpO7jtzHsalBU_pFaajLcFDwU1BHYY9qN0Pbholt-IxPG6DabmAeCy4C15lCGLS6-eySpL6M/s640/alkas" group-title="SPORT | Al Kass",Al Kass 5 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/256.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIM SPORT SD" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnimPcFLFE0BJG_UQdm7tT0WyJSONtiX1Ig943k3=s900-c-k-c0x00ffffff-no-rj" group-title="Sport | ARABIC",ON TIM SPORT SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/211.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TIM SPORT 4K" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnimPcFLFE0BJG_UQdm7tT0WyJSONtiX1Ig943k3=s900-c-k-c0x00ffffff-no-rj" group-title="Sport | ARABIC",ON TIM SPORT 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/213.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON Time Sport 2 4K" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnimPcFLFE0BJG_UQdm7tT0WyJSONtiX1Ig943k3=s900-c-k-c0x00ffffff-no-rj" group-title="Sport | ARABIC",ON Time Sport 2 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/285245.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON Time Sport 2 HD" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnimPcFLFE0BJG_UQdm7tT0WyJSONtiX1Ig943k3=s900-c-k-c0x00ffffff-no-rj" group-title="Sport | ARABIC",ON Time Sport 2 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/214.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nile Sport" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnimPcFLFE0BJG_UQdm7tT0WyJSONtiX1Ig943k3=s900-c-k-c0x00ffffff-no-rj" group-title="Sport | ARABIC",Nile Sport
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/215.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zamalek Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnimPcFLFE0BJG_UQdm7tT0WyJSONtiX1Ig943k3=s900-c-k-c0x00ffffff-no-rj" group-title="Sport | ARABIC",Zamalek Sports
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/216.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AL Ahly" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnimPcFLFE0BJG_UQdm7tT0WyJSONtiX1Ig943k3=s900-c-k-c0x00ffffff-no-rj" group-title="Sport | ARABIC",AL Ahly
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/217.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Play 1" tvg-logo="https://live.staticflickr.com/65535/52267854452_f6d0e49aba_q.jpg" group-title="AR | STARZ PLAY",Starz Play 1
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/749.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Play 2" tvg-logo="https://live.staticflickr.com/65535/52267854452_f6d0e49aba_q.jpg" group-title="AR | STARZ PLAY",Starz Play 2
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/750.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Play 3" tvg-logo="https://live.staticflickr.com/65535/52267854452_f6d0e49aba_q.jpg" group-title="AR | STARZ PLAY",Starz Play 3
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/751.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Play 4" tvg-logo="https://live.staticflickr.com/65535/52267854452_f6d0e49aba_q.jpg" group-title="AR | STARZ PLAY",Starz Play 4
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/752.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Play 5" tvg-logo="https://live.staticflickr.com/65535/52267854452_f6d0e49aba_q.jpg" group-title="AR | STARZ PLAY",Starz Play 5
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/753.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Play 6" tvg-logo="https://live.staticflickr.com/65535/52267854452_f6d0e49aba_q.jpg" group-title="AR | STARZ PLAY",Starz Play 6
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/754.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Play 7" tvg-logo="https://live.staticflickr.com/65535/52267854452_f6d0e49aba_q.jpg" group-title="AR | STARZ PLAY",Starz Play 7
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/755.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Play 8" tvg-logo="https://live.staticflickr.com/65535/52267854452_f6d0e49aba_q.jpg" group-title="AR | STARZ PLAY",Starz Play 8
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/756.m3u8
