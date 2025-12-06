@@ -243,4 +243,19 @@ http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/870.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE 2" tvg-logo="https://wallpapers.com/images/hd/wwe-logo-2332-x-1747-wallpaper-ldvtqdcd0suh55ou.jpg" group-title="AR | WWE",WWE 2
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/871.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE 3" tvg-logo="https://wallpapers.com/images/hd/wwe-logo-2332-x-1747-wallpaper-ldvtqdcd0suh55ou.jpg" group-title="AR | WWE",WWE 3
+
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/872.m3u8
+#EXTINF:-1,LIBYA ALRASMEYA [AR]
+http://1.mhpro1.xyz:80/live/z1420/a013567043/5125.m3u8
+#EXTINF:-1,LIBYA RSMIA Ch [AR]
+http://1.mhpro1.xyz:80/live/z1420/a013567043/5122.m3u8
+#EXTINF:-1,[Libya]Libya_JAMAHIRIA
+http://1.mhpro1.xyz:80/live/z1420/a013567043/12179.m3u8
+#EXTINF:-1,Libya SALAM [AR]
+http://1.mhpro1.xyz:80/live/z1420/a013567043/12175.m3u8
+#EXTINF:-1,Libya Febrayer [AR]
+http://1.mhpro1.xyz:80/live/z1420/a013567043/12177.m3u8
+#EXTINF:-1,Libya HADATH [Libya]
+http://1.mhpro1.xyz:80/live/z1420/a013567043/12178.m3u8
+#EXTINF:-1,Libya TANASUH [AR]
+http://1.mhpro1.xyz:80/live/z1420/a013567043/12176.m3u8
