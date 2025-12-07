@@ -1,10 +1,6 @@
 #EXTM3U
 
-#EXTVLCOPT:network-caching=1000
-
-########################################
-#  BEIN SPORTS (Ù…ØªØ¹Ø¯Ø¯Ø© Ø§Ù„Ø¬ÙˆØ¯Ø©)
-########################################
+#  BEIN SPORTS 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 1 SD
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/39.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 2 SD
@@ -60,9 +56,7 @@ http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/117.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 9 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 9 4K
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/118.m3u8
 
-########################################
 # POST SPORTS
-########################################
 #EXTINF:-1 tvg-id="" tvg-name="POST SPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTnJFCGUiBM0HE8s2FoowfcF3JUCi0j1rLE7PCNhj1QSXZU9ZRhzo3LrOIQeovFYu7Cic&usqp=CAU" group-title="âš½ POST SPORTS",POST SPORT 1
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348895.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POST SPORT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTnJFCGUiBM0HE8s2FoowfcF3JUCi0j1rLE7PCNhj1QSXZU9ZRhzo3LrOIQeovFYu7Cic&usqp=CAU" group-title="âš½ POST SPORTS",POST SPORT 2
@@ -124,9 +118,7 @@ http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/256.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 6 4K" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ðŸŽ¯ AL KASS SPORTS",Al Kass 6 4K
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/343207.m3u8
 
-########################################
 # ðŸ”µ ALWAN SPORTS
-########################################
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="ðŸ”µ ALWAN SPORTS",ALWAN 1
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/284620.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="ðŸ”µ ALWAN SPORTS",ALWAN 2
