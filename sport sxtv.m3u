@@ -6,7 +6,7 @@
 ########################################
 # ðŸ“º BEIN SPORTS (Ù…ØªØ¹Ø¯Ø¯Ø© Ø§Ù„Ø¬ÙˆØ¯Ø©)
 ########################################
-
+#BEIN SPORTS 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 1 SD
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/39.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 2 SD
@@ -67,7 +67,7 @@ http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/118.m3u8
 ########################################
 # âš½ POST SPORTS
 ########################################
-
+#POST SPORTS 
 #EXTINF:-1 tvg-id="" tvg-name="POST SPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTnJFCGUiBM0HE8s2FoowfcF3JUCi0j1rLE7PCNhj1QSXZU9ZRhzo3LrOIQeovFYu7Cic&usqp=CAU" group-title="âš½ POST SPORTS",POST SPORT 1
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348895.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POST SPORT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTnJFCGUiBM0HE8s2FoowfcF3JUCi0j1rLE7PCNhj1QSXZU9ZRhzo3LrOIQeovFYu7Cic&usqp=CAU" group-title="âš½ POST SPORTS",POST SPORT 2
@@ -82,7 +82,7 @@ http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348899.m3u8
 ########################################
 # ðŸ† THAMANI SPORTS (Ù‚ÙŠÙ… Ø§Ù„Ø«Ø§Ù…Ù†Ø©)
 ########################################
-
+#THAMANI SPORTS 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT Thamanih 1 SD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/images%20(1).jpeg" group-title="ðŸ† THAMANI SPORTS",SPORT Thamanih 1 SD
 http://splus.smartres.net/live/65787/54353/139068.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORT Thamanih 2 SD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/images%20(1).jpeg" group-title="ðŸ† THAMANI SPORTS",SPORT Thamanih 2 SD
@@ -107,7 +107,7 @@ http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/329686.m3u8
 ########################################
 # ðŸŽ¯ AL KASS SPORTS
 ########################################
-
+#ALKASS SPORTS 
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 1 HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ðŸŽ¯ AL KASS SPORTS",Al Kass 1 HD
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/248.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 2 HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ðŸŽ¯ AL KASS SPORTS",Al Kass 2 HD
@@ -136,7 +136,7 @@ http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/343207.m3u8
 ########################################
 # ðŸ”µ ALWAN SPORTS
 ########################################
-
+#ALWAN
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="ðŸ”µ ALWAN SPORTS",ALWAN 1
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/284620.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="ðŸ”µ ALWAN SPORTS",ALWAN 2
@@ -153,7 +153,7 @@ http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/284625.m3u8
 ########################################
 # ðŸŒ‡ DUBAI SPORTS (Ø£Ø¨ÙˆØ¸Ø¨ÙŠ)
 ########################################
-
+#DUBAI SPORTS
 #EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORT 1" tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="ðŸŒ‡ DUBAI SPORTS",DUBAI SPORT 1
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/208.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORT 2" tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="ðŸŒ‡ DUBAI SPORTS",DUBAI SPORT 2
@@ -172,7 +172,7 @@ http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/205.m3u8
 ########################################
 # ðŸ“± SPORT | TOD
 ########################################
-
+#TOD SPORT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-2/refs/heads/main/images%20(2).png",TOD beIN EVENTS 1
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/279429.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-2/refs/heads/main/images%20(2).png",TOD beIN EVENTS 2
@@ -213,3 +213,4 @@ http://092025.online:2086/live/775921709518/135552110567088d311a30d/279446.m3u8
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/279447.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-2/refs/heads/main/images%20(2).png",TOD beIN EVENTS 20
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/279448.m3u8
+
