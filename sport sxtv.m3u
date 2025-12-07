@@ -280,3 +280,7 @@ http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/870.m3u8
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/871.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE 3" tvg-logo="https://wallpapers.com/images/hd/wwe-logo-2332-x-1747-wallpaper-ldvtqdcd0suh55ou.jpg" group-title="AR | WWE",WWE 3
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/872.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Alii2 HD" tvg-logo="https://live.staticflickr.com/65535/53531699513_2940e3f05e_m.jpg" group-title="BEIN | HD",BEIN 2 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/85.m3u8
+
