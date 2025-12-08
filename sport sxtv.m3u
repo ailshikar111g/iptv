@@ -69,7 +69,7 @@ http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348898.m3u8
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/348899.m3u8
 
 ########################################
-# ðŸ† THAMANI SPORTS (Ù‚ÙŠÙ… Ø§Ù„Ø«Ø§Ù…Ù†Ø©)
+# THAMANI SPORTS 
 ########################################
 #EXTINF:-1 tvg-id="" tvg-name="SPORT Thamanih 1 SD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/images%20(1).jpeg" group-title="ðŸ† THAMANI SPORTS",SPORT Thamanih 1 SD
 http://splus.smartres.net/live/65787/54353/139068.m3u8
@@ -118,7 +118,7 @@ http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/256.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 6 4K" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ðŸŽ¯ AL KASS SPORTS",Al Kass 6 4K
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/343207.m3u8
 
-# ðŸ”µ ALWAN SPORTS
+# ALWAN SPORTS
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="ðŸ”µ ALWAN SPORTS",ALWAN 1
 http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/284620.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgYHgSM9PlIv0S7xSlYJ9vWacEfgEG3aVBQ&s" group-title="ðŸ”µ ALWAN SPORTS",ALWAN 2
@@ -193,3 +193,4 @@ http://092025.online:2086/live/775921709518/135552110567088d311a30d/279446.m3u8
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/279447.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-2/refs/heads/main/images%20(2).png",TOD beIN EVENTS 20
 http://092025.online:2086/live/775921709518/135552110567088d311a30d/279448.m3u8
+
